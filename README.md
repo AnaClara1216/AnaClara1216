@@ -1,3 +1,3 @@
-# Bem vindo(a)!
+# ✨Bem vindo(a)!
 
-- HTML - CSS - PHP - MYSQL - C# - PACOTE OFFICE - CANVA/FIGMA
+- 🖥HTML - CSS - PHP - MYSQL - C# - PACOTE OFFICE - CANVA/FIGMA
